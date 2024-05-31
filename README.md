@@ -1,7 +1,7 @@
 # ✌️🛹 Hi, I'm Syafiq
 **`FullStack Developer (Developer/Gamer/Artist)`**
 
-Eagerly seeking for risk as I believe that risk could help me grow as a person and failure is the key in being a successful person. I am passionate to implement my programming knowledge and experience towards launching a successful career as a Fullstack Developer
+Eagerly seeking for risk as I believe that risk could help me grow as a person and failure is the key in being a successful person. I am passionate to implement my programming knowledge and experience towards launching a successful career as a Software Developer
 
 ---
 
